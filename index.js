@@ -20,8 +20,8 @@ return n++
 }
 
 function dec(n) {
-  var b = (`${n}`)--
-return b
+  var d = (`${n}`)--
+return d
 }
 
 function makeInt(n) {
