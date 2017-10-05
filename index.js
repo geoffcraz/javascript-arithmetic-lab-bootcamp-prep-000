@@ -25,7 +25,7 @@ return n-1
 }
 
 function makeInt(n) {
-<<<<<<< HEAD
+
  var int =  parseInt(n, 10)
  return int
  }
@@ -35,7 +35,7 @@ function makeInt(n) {
    return dec
 
  }
-=======
+
   parseInt(n)
   return n ;
 
@@ -43,4 +43,4 @@ function makeInt(n) {
 
 
 }
->>>>>>> bed8bb9fa20a2483aad651b25377471867de79be
+
