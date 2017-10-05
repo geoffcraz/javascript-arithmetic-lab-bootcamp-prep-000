@@ -20,8 +20,8 @@ return  c
 }
 
 function dec(n) {
-  parseInt(n)
-return n-1
+  c = --n
+return c
 }
 
 function makeInt(n) {
