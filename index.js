@@ -20,7 +20,7 @@ return n++
 }
 
 function dec(n) {
-  b = parseInt(n)--
+  b = (parseInt(n)--)
 return b
 }
 
