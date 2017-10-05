@@ -20,7 +20,7 @@ return n++
 }
 
 function dec(n) {
- var valueDec = n--
+ var valueDec = ${n}--
 return valueDec
 }
 
