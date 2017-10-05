@@ -36,4 +36,5 @@ function makeInt(n) {
 
  }
 
- preserveDecimal(5445.4543)
+ output = preserveDecimal(5445.4543)
+ console.log(output)
