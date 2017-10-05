@@ -35,3 +35,5 @@ function makeInt(n) {
    return dec
 
  }
+
+ preserveDecimal(5445.4543)
