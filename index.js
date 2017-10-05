@@ -36,5 +36,5 @@ function makeInt(n) {
 
  }
 
- output = makeInt(5445.4543)
+ output = dec(5445)
  console.log(output)
