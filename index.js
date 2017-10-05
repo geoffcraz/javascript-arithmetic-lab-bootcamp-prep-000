@@ -37,5 +37,5 @@ function makeInt(n) {
  }
 
 
-var output = function inc(4); 
+var output = inc(4);
 console.log(output)
