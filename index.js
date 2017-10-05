@@ -35,3 +35,7 @@ function makeInt(n) {
    return dec
 
  }
+
+
+var output = function inc(4); 
+console.log(output)
