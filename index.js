@@ -35,5 +35,3 @@ function makeInt(n) {
    return dec
 
  }
-
-
