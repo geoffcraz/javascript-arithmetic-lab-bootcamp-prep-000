@@ -20,7 +20,7 @@ return n++
 }
 
 function dec(n) {
-  b = `${n}`--
+  var b = (`${n}`)--
 return b
 }
 
